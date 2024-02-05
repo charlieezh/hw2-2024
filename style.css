@@ -8,6 +8,7 @@ body {
 
 /* Style for the h1 heading */
 h1 {
+    font-family: Arial, Verdana;
     font-size: 42px;
     text-align: center;
     padding: 15px;
@@ -15,12 +16,14 @@ h1 {
 
 /* Style for the h2 heading */
 h2 {
+    font-family: Arial, Verdana;
     font-size: 30px;
     color: #0D0D0D;
 }
 
 /* Style for the default paragraphs */
 p {
+    font-family: Arial, Verdana;
     font-size: 24px;
     padding: 10px 0 0 10px;
 }
@@ -36,6 +39,7 @@ img {
 
 /* Default style for div elements */
 div {
+    font-family: Arial, Verdana;
     min-height: 125px;
     /* At least 125px tall */
     padding: 20px;
@@ -44,6 +48,7 @@ div {
 
 /* Style for the introduction class */
 .introduction {
+    font-family: Arial, Verdana;
     border-radius: 15px;
     /* 15px border-radius for curved edges */
     margin-top: 15px;
@@ -52,6 +57,7 @@ div {
 
 /* Style for the red class */
 .red {
+    font-family: Arial, Verdana;
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
@@ -63,6 +69,7 @@ div {
 
 /* Style for the blue div */
 .blue {
+    font-family: Arial, Verdana;
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
@@ -77,6 +84,7 @@ div {
 
 /* Style for the yellow div */
 .yellow {
+    font-family: Arial, Verdana;
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
@@ -88,6 +96,7 @@ div {
 }
 /* Style for the green div */
 .green {
+    font-family: Arial, Verdana;
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
@@ -99,12 +108,14 @@ div {
 
 /* Style the default footer elements */
 footer {
+    font-family: Arial, Verdana;
     background: linear-gradient(90deg, #000000 0%, #0000FF 25%, #0066ff 70%, #000000 100%);
     border: 5px solid #FFFFFF;
 }
 
 /* Style paragraphs within the footer */
 footer p {
+    font-family: Arial, Verdana;
     font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0;
